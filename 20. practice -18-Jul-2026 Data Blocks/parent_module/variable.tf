@@ -18,4 +18,6 @@
 # variable "virtual_machine" {
 
 # }
-
+# variable "windows_virtual_machine" {
+  
+# }

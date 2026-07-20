@@ -30,3 +30,9 @@
 #   depends_on      = [module.public_ip]
 #   virtual_machine = var.virtual_machine
 # }
+
+# module "windows_virtual_machine" {
+#   source = "../azurerm_windows_virtual_machine"
+#   windows_virtual_machine = var.windows_virtual_machine
+#   depends_on = [ module.public_ip ]
+# }
