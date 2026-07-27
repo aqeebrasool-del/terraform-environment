@@ -16,7 +16,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: parent_module
+        working-directory: environments
 
     steps:
 
