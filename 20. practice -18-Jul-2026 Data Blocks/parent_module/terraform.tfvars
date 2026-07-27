@@ -4,11 +4,6 @@ resource_group = {
     name     = "rg-test1"
     location = "West US"
   }
-    rg2 = {
-
-    name     = "rg-test2"
-    location = "West US"
-  }
 }
 
 
