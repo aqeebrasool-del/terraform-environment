@@ -9,7 +9,7 @@ terraform {
     resource_group_name  = "rg-test"
     storage_account_name = "aqibstorageaccount221122"
     container_name       = "aqibcontainer11221122"
-    key                  = "test.tfstate"
+    key                  = "dev.tfstate"
 
   }
 }
