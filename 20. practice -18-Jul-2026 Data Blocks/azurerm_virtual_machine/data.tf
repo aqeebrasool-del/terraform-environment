@@ -1,4 +1,6 @@
 
+
+
 data "azurerm_subnet" "snets" {
   for_each             = var.virtual_machine
   name                 = each.value.subnet_name
