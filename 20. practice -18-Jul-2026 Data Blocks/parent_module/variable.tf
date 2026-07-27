@@ -1,23 +1,23 @@
-# variable "resource_group" {
+variable "resource_group" {
 
-# }
+}
 
-# variable "virtual_network" {
+variable "virtual_network" {
 
-# }
+}
 
-# variable "subnets" {
+variable "subnets" {
 
-# }
+}
 
-# variable "public_ip" {
+variable "public_ip" {
 
-# }
+}
 
 
-# variable "virtual_machine" {
+variable "virtual_machine" {
 
-# }
-# variable "windows_virtual_machine" {
+}
+variable "windows_virtual_machine" {
   
-# }
+}
