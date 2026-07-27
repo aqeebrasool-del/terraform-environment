@@ -18,6 +18,7 @@ module "subnets" {
 
 }
 
+
 module "public_ip" {
   source     = "../modules/azurerm_public_ip"
   depends_on = [module.resource_group]
